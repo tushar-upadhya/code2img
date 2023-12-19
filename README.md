@@ -1,7 +1,10 @@
 <div align="center"><h1> codeToImage </h1> </div>
 
 # About
-*  Developed and implemented "codeToImage" web project, allowing tech creators to showcase their code in a visually appealing format. Supported 4+ programming languages for versatile code representation. Incorporated 7+ color themes and 2+ editor themes to enhance user customization and experience. Innovatively designed a feature enabling users to download their code in PNG image format.
+*  Developed and implemented "codeToImage" web project, allowing tech creators to showcase their code in a visually appealing format.
+*  Supported **4+** programming languages for versatile code representation.
+*  Incorporated **7+** color themes and **2+** editor themes to enhance user customization and experience.
+*  Innovatively designed a feature enabling users to download their code in PNG image format.
 
 ## Website is Live : [DEMO](https://code2img-tusharupadhyay.vercel.app/)
 
